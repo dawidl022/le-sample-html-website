@@ -1,0 +1,50 @@
+.nav-menu {
+  text-align: right;
+}
+
+.nav-menu a, .image-link {
+  text-decoration: none;
+}
+
+.nav-menu a:visited, .nav-menu a:active {
+  color: #0000ee;
+}
+
+.nav-spacing {
+  margin: 0 0 0 10px;
+}
+
+body > header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+
+.hero-img {
+  display: block;
+  margin: 0 auto;
+}
+
+.book-overview {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+
+img.book-cover {
+  height: 200px;
+  float: left;
+  margin-right: 40px;
+} 
+
+blockquote.book-quote {
+  font-size: 1.25rem;
+  font-style: italic;
+}
+
+em.first-line {
+  font-style: normal;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #f00;
+}
